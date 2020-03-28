@@ -13,6 +13,7 @@ src/lectureplayer
 .DS_Store
 *.log
 *.swp
+*.pyc
 .gradle
 /client/
 *.jar
